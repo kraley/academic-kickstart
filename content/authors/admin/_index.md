@@ -15,7 +15,7 @@ role: Professor of Sociology
 # Organizations/Affiliations
 organizations:
 - name: University of Texas -- Austin
-  url: ""
+  url: "https://www.utexas.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include family demography, social stratification, race/ethnicity.
