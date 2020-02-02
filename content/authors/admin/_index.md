@@ -65,4 +65,8 @@ social:
 #- Visitors
 ---
 
-Kelly Raley is a professor of sociology at the University of Texas, where she is also Associate Director of the Population Research Center and Director of the Science and Technology Core and Federal Statistical Research Data Canter. Her research descirbes family change and variation by socidemographic characteristics and investigates the causes and consequences of this change. 
+Kelly Raley is a professor of sociology at the [University of Texas](https://www.utexas.edu). She is also Associate Director of the [Population Research Center](https://liberalarts.utexas.edu/prc/), Director of the [Science & Technical Core](https://liberalarts.utexas.edu/prc/_scientific-and-technical/), and Director of the [UT-Branch](https://www.census.gov/about/adrm/fsrdc/locations/ut-austin.html) of the [Texas Research Data Center](https://txrdc.tamu.edu/consortium/). \newline
+\newline
+She is a member of the [Population Association of America](http://www.populationassociation.org/) and the [American Sociological Association](http://www.asanet.org/), servince as the chair of the [Family Section](http://www.asafamilysection.com/) /newline
+/newline
+Her research describes family change and variation by socidemographic characteristics and investigates the causes and consequences of this change.
