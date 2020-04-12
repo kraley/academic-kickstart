@@ -23,13 +23,13 @@ bio: My research interests include family demography, social stratification, rac
 education:
   courses:
   - course: PhD in Sociology
-    institution: University of Wisconsin
+    institution: [University of Wisconsin](https://sociology.wisc.edu)
     year: 1994
   - course: MS in Sociology
-    institution: University of Wisconsiin
+    institution: [University of Wisconsin](https://sociology.wisc.edu)
     year: 1991
   - course: BA in Sociology
-    institution: University of Texas
+    institution: [University of Texas](https://liberalarts.utexas.edu/sociology)
     year: 1989
 
 # Social/Academic Networking
