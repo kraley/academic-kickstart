@@ -22,7 +22,7 @@
 
 [[main]]
   name = "Workflow"
-  url = "workflow/index.md"
+  url = "https://wikis.utexas.edu/display/famdem/Workflow+for+the+analysis+of+secondary+quantitative+data+sources"
   weight = 40
 
 [[main]]
